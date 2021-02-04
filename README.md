@@ -1,5 +1,5 @@
 # RKStatic
-A blazing fast static site generator to generate beatiful single page websites from themes.
+A blazing fast static site generator to generate beatiful single page websites from markdown. Open source and includes themes.
 
 # Usage
 > py or python rkstatic.py {markdown file directory} {html file directory} {css filed directory} -{theme}
