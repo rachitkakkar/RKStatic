@@ -5,8 +5,8 @@ A blazing fast static site generator to generate beautiful single page websites 
 > py or python rkstatic.py {markdown file directory} {html file directory} {css filed directory} -{theme}
 > The Included Themes Are: retro, modest, splendid, and air
 
-#Example
+# Example
 > py or python rkstatic.py test.md index.html style.css -retro
 
-# Video Tutorial
-Coming Soon!
+# Help
+If you need help, please raise an issue. I will try to respond.
