@@ -439,8 +439,8 @@ def run():
             }''')
             css.close()
 
-        if sys.argv[4] == '-splendor':
-            print("- Using Theme Splendor")
+        if sys.argv[4] == '-splendid':
+            print("- Using Theme Splendid")
             css = open(sys.argv[3], 'w')
             css.write('''
             @media print {
