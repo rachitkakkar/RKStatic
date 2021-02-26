@@ -6,7 +6,7 @@ A blazing fast static site generator to generate beautiful single page websites 
 > The Included Themes Are: retro, modest, splendid, and air
 
 # Example
-> py or python rkstatic.py test.md index.html style.css -retro
+> py rkstatic.py test.md index.html style.css -retro
 
 # Help
 If you need help, please raise an issue. I will try to respond.
