@@ -1,5 +1,6 @@
 # RKStatic
 A blazing fast static site generator to generate beautiful single page websites from markdown. Open source and includes themes.
+ARCHIVED: Use https://github.com/rachitkakkar/LugNut instead :)
 
 # Usage
 > py or python rkstatic.py {markdown file directory} {html file directory} {css filed directory} -{theme}
